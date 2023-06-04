@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\bin\Debug\net7.0\Supermarket.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\bin\Debug\net7.0\Supermarket.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\bin\Debug\net7.0\Supermarket.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\bin\Debug\net7.0\Supermarket.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\bin\Debug\net7.0\Supermarket.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\refint\Supermarket.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\Supermarket.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\Supermarket\obj\Debug\net7.0\ref\Supermarket.dll
